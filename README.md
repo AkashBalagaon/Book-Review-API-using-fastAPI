@@ -41,7 +41,7 @@
   
    1. Clone the Repo
       
-      git clone <your-repo-link>
+      git clone https://github.com/AkashBalagaon/Book-Review-API-using-fastAPI
       cd book-review-api
 
    2. Create Virtual Environment & Install Dependencies
